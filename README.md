@@ -23,7 +23,7 @@ Running the project on local machine <br>
 Step 1 - Clone the project <br>
 ```
 git clone https://github.com/sheikh-sahira1703/housing-rent-prediction.git
-cd ml-1
+cd housing-rent-prediction
 ```
 Step 2 - Create an environment <br>
 ```
